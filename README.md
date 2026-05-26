@@ -55,4 +55,3 @@ Open `index.html` directly in browser.
 ## Author
 
 Meghna Tomar
-JIIT CSE Student
