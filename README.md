@@ -1,4 +1,4 @@
-# Rupeezy Frontend
+# RupEasy Frontend
 
 Rupeezy is a frontend prototype for an AI-powered microloan platform designed to help borrowers and lenders connect through a simple and modern interface.
 
